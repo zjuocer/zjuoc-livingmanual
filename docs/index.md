@@ -9,5 +9,5 @@
 
 - 中文网：http://oc.zju.edu.cn/main.htm 
 - 办公网：https://oca.zju.edu.cn/ 
-- 偏官方微信公众号：浙江大学海洋学园
+- 偏官方微信公众号：浙江大学海洋学院
 - 偏生活微信公众号：ZJU海小漾
