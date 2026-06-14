@@ -7,7 +7,9 @@
 
 一些学院相关的信息：
 
-- 中文网：http://oc.zju.edu.cn/main.htm 
-- 办公网：https://oca.zju.edu.cn/ 
+- 中文网：[http://oc.zju.edu.cn/main.htm](http://oc.zju.edu.cn/main.htm) 
+- 办公网：[https://oca.zju.edu.cn/](https://oca.zju.edu.cn/) （需要校网环境打开）
 - 偏官方微信公众号：浙江大学海洋学院
 - 偏生活微信公众号：ZJU海小漾
+
+在办公网右上角有“学院黄页”，可以找到学院绝大部分行政老师的联系方式。其他老师的联系方式可以在“教师个人主页”上搜索。

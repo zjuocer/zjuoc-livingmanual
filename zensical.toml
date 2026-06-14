@@ -11,8 +11,22 @@
 nav = [
     { "首页" = "index.md" },
     { "舟山校区生活" = [
+        "1-living-in-Zhoushan/100-contacts.md",
         "1-living-in-Zhoushan/101-campus.md",
         "1-living-in-Zhoushan/102-food.md",
+    ] },
+    { "本科培养方案" = [
+        "2-programs/201-index.md",
+        "2-programs/22401.md",
+        "2-programs/22601.md",
+
+    ] },
+    { "课程" = [
+        "3-courses/301-courses.md",
+    ] },
+    { "短学期" = [
+        "4-short-semesters/401-index.md",
+        "4-short-semesters/42511-et.md",
     ] },
 ]
 
@@ -311,3 +325,11 @@ toggle.name = "Switch to light mode"
 #[[project.extra.social]]
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
+
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.keys]
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.tilde]
