@@ -1,4 +1,4 @@
-# ZJU OC 生存之北
+# ZJU OC 生存指北
 
 手册链接：https://zjuocer.github.io/zjuoc-livingmanual/ 
 
