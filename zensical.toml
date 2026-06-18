@@ -19,6 +19,7 @@ nav = [
     { "本科培养方案" = [
         "2-programs/201-index.md",
         "2-programs/22401.md",
+        "2-programs/22402.md",
         "2-programs/22601.md",
 
     ] },
